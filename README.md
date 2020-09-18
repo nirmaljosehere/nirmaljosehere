@@ -2,7 +2,7 @@
 
 ### Hi, I'm Nirmal Jose 👋
 
-I’m an AEM Architect and a full stack developer. I am an Adobe MVP for AEM communities and I love giving it back. I currently work as a AEM Product owner at BT
+I’m an AEM Architect and a full stack developer. I am an Adobe MVP for AEM communities and try to support the developer community in the ways I could. I currently work as a AEM Product owner at BT
 
 - 📱 Second son of an exceptional couple, father of two, husband to a great lady
 - 🤓 I’m currently learning Adobe Target and Adobe Launch.
